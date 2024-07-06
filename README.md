@@ -1,2 +1,2 @@
 # machina
-A portable c library for cross platform development
+A portable C library for cross-platform development
