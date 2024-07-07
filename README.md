@@ -1,2 +1,2 @@
-# machina
-A portable C library for cross-platform development
+# Machina Runtime Library
+A portable C runtime library for cross-platform development
